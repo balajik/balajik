@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/balajikb"><img src="https://api.daily.dev/devcards/b0df5695f3344417bcc934393adf3db4.png?r=xxl" width="400" alt="Balaji K's Dev Card"/></a>
+<a href="https://app.daily.dev/balajikb"><img src="https://github.com/balajik/balajik/blob/main/devcard.svg" width="400" alt="Balaji K's Dev Card"/></a>
 
 <!--
 **balajik/balajik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
