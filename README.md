@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/balaji_kb" target="blank"><img src="https://img.shields.io/twitter/follow/balaji_kb?logo=twitter&style=for-the-badge" alt="balaji_kb" /></a> </p>
 
+[![An image of @balajik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/balajik)](https://holopin.io/@balajik)
+
 - 🌱 I’m currently learning **GraphQL, Nextjs**
 
 - 📝 I regularly write articles on [https://dev.to/balajik](https://dev.to/balajik)
